@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
@@ -43,7 +42,6 @@ function App() {
             <a href="https://wa.me/5524998172656" target="_blank" className="btn-footer"><i class="bi bi-whatsapp"></i></a>
             <a href="https://www.instagram.com/jv_lunardi/" target="_blank" className="btn-footer"><i class="bi bi-instagram"></i></a>
         </footer>
-
     </div>
   )
 }
