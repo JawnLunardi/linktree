@@ -63,12 +63,14 @@ header p{
     color: #000;
     font-weight: 500;
     font-size: 1.2em;
+    
 }
 
 section.botoes-links{
     display: flex;
     flex-direction: column;
     gap: 20px;
+
 }
 
 a.link button{
@@ -85,6 +87,7 @@ a.link button{
     cursor: pointer;
     transition: .2s;
     background-color: #fefbea;
+    color: #000;
 }
 
 a.link i{
