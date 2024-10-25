@@ -4,6 +4,7 @@
 Tecnologias utilizadas:
 - HTML
 - CSS
+- React.JS
 
 Link: https://lt-lunardi.vercel.app
 
